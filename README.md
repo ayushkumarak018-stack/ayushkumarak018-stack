@@ -1,4 +1,5 @@
-<h1>💫 Hi 👋, I'm Ayush Kumar</h1> <h2>🎨 Creative Technologist | 🧠 AI Explorer | 🔐 Cybersecurity Learner<br><br>I specialize in blending design and development—crafting 3D animations, logos, and video edits with tools like Blender, while building secure full-stack web apps that scale. My work merges visual storytelling with technical precision, and I’m always exploring new ways to innovate.<br><br>---<br><br>🚀 What I'm Up To<br>- 🔭 Freelancing in animation, branding, and web development  <br>- 🌱 Learning Google Cloud AI & cybersecurity frameworks  <br>- 🛠️ Building modular, secure digital experiences  <br><br>---<br><br>🤝 Let's Connect<br>- 👯 Open to collabs on creative tech, open-source, and hackathons  <br>- 💬 Ask me about Blender workflows, full-stack builds, or freelancing tips  <br>- ⚡ Fun fact: I once animated a logo to pulse with a real heartbeat 💓  <br><br>---<br><br>📫 Reach me at: ayushkumar.ak018@gmail.com  </h2>
+# 💫 About Me:
+👋 Hello, I'm Ayush Kumar<br><br>🎨 Creative Technologist | 🧠 AI Explorer | 🔐 Cybersecurity Learner<br><br>I specialize in blending design and development—crafting 3D animations, logos, and video edits with tools like Blender, while building secure full-stack web apps that scale. My work merges visual storytelling with technical precision, and I’m always exploring new ways to innovate.<br><br>---<br><br>🚀 What I'm Up To<br>- 🔭 Freelancing in animation, branding, and web development  <br>- 🌱 Learning Google Cloud AI & cybersecurity frameworks  <br>- 🛠️ Building modular, secure digital experiences  <br><br>---<br><br>🤝 Let's Connect<br>- 👯 Open to collabs on creative tech, open-source, and hackathons  <br>- 💬 Ask me about Blender workflows, full-stack builds, or freelancing tips  <br>- ⚡ Fun fact: I once animated a logo to pulse with a real heartbeat 💓  <br><br>---<br><br>📫 Reach me at: ayushkumar.ak018@gmail.com  <br>
 
 
 ## 🌐 Socials:
@@ -18,17 +19,10 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ayushkumarak018-stack&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-### 🔝 Top Contributed Repo
+[![](https://visitcount.itsvg.in/api?id=ayushkumarak018-stack&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-  
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=ayushkumarak018-stack&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</div>
-
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/ayushkumar_01) 
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/ayushkumar_01) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
