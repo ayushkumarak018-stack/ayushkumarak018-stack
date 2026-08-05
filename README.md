@@ -1,24 +1,288 @@
-👋 Hello, I'm Ayush Kumar<br><br>🎨 Creative Technologist | 🧠 AI Explorer | 🔐 Cybersecurity Learner<br><br>I specialize in blending design and development—crafting 3D animations, logos, and video edits with tools like Blender, while building secure full-stack web apps that scale. My work merges visual storytelling with technical precision, and I’m always exploring new ways to innovate.<br><br>---<br><br>🚀 What I'm Up To<br>- 🔭 Freelancing in animation, branding, and web development  <br>- 🌱 Learning Google Cloud AI & cybersecurity frameworks  <br>- 🛠️ Building modular, secure digital experiences  <br><br>---<br><br>🤝 Let's Connect<br>- 👯 Open to collabs on creative tech, open-source, and hackathons  <br>- 💬 Ask me about Blender workflows, full-stack builds, or freelancing tips  <br>- ⚡ Fun fact: I once animated a logo to pulse with a real heartbeat 💓  <br><br>---<br><br>📫 Reach me at: ayushkumar.ak018@gmail.com  <br>
+<div align="center">
 
+# Hi 👋, I'm Ayush Kumar
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kumarbrother) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayushk.011) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@ayushkumar.ak018) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushkumar.ak018@gmail.com) 
+### Software Engineering Student • Full-Stack Developer • Cloud & AI Enthusiast
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-# 📊 GitHub Stats:
-![GitHub Stats](https://streak-stats.demolab.com?user=ayushkumarak018-stack&theme=dark&hide_border=true)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full-Stack+Web+Developer;Cloud+%26+AI+Enthusiast;Open+Source+Learner;Always+Learning+New+Technologies" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p>
+<a href="https://linkedin.com/in/ayush-kumar-224241210"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:ayushkumar.ak018@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ayushkumarak018-stack&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ayushkumarak018-stack&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/ayushkumar_01) 
+# 💫 About Me
 
+🎓 B.Tech Computer Science & Engineering Student
 
+💻 Passionate about Software Engineering, Full-Stack Development, Cloud Computing, Artificial Intelligence, and Cybersecurity.
+
+☁️ Experienced with Google Cloud Platform, modern web technologies, secure coding practices, and AI-powered applications.
+
+🚀 Built multiple full-stack websites, cloud projects, and digital solutions while continuously learning new technologies.
+
+🌱 Currently learning
+
+- Advanced Software Engineering
+- System Design
+- AI & Machine Learning
+- Microsoft Azure
+- DevOps
+- Kubernetes
+
+💬 Ask me about
+
+- C#
+- JavaScript
+- HTML/CSS
+- Google Cloud
+- Git & GitHub
+- Full Stack Development
+
+📫 Reach me:
+
+**ayushkumar.ak018@gmail.com**
+
+---
+
+# 🚀 Tech Stack
+
+## Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cs,js,html,css"/>
+</p>
+
+## Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,react"/>
+</p>
+
+## Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes,terraform,git,github"/>
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,blender"/>
+</p>
+
+---
+
+# 🤖 AI & Cloud Skills
+
+| Area | Technologies |
+|------|--------------|
+| Generative AI | Gemini API, Vertex AI |
+| Cloud | Google Cloud Platform |
+| Databases | BigQuery |
+| Infrastructure | Compute Engine |
+| Serverless | Cloud Functions |
+| Containers | Kubernetes Engine |
+| IAM | Identity & Access Management |
+| Infrastructure as Code | Terraform |
+
+---
+
+# 📌 Featured Projects
+
+<details>
+<summary><b>🌐 Full Stack Website Development</b></summary>
+
+Designed and developed multiple responsive full-stack websites with modern UI and secure backend architecture.
+
+**Tech Stack**
+
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+
+</details>
+
+<details>
+<summary><b>☁️ Google Cloud Projects</b></summary>
+
+Hands-on cloud projects using Compute Engine, Cloud Storage, IAM, BigQuery, Cloud Run and Vertex AI.
+
+</details>
+
+<details>
+<summary><b>🤖 AI Applications</b></summary>
+
+Built AI-powered applications using Gemini API and Vertex AI with real-world cloud deployment.
+
+</details>
+
+---
+
+# 💼 Experience
+
+## Freelance Software Developer & Digital Solutions Engineer
+
+**January 2023 – Present**
+
+- Developed custom websites
+- Built client digital solutions
+- Created 3D assets using Blender
+- Applied secure coding practices
+- Delivered end-to-end software solutions
+
+---
+
+## Google Cloud Arcade Facilitator
+
+**2025**
+
+- Cloud Architecture
+- Vertex AI
+- BigQuery
+- Compute Engine
+- IAM
+- Cloud Storage
+
+---
+
+# 🏆 Certifications
+
+- Microsoft Foundational C#
+- Google Cloud Skill Badges
+- Google Cloud Gen AI Academy
+- AWS Solutions Architecture Job Simulation
+- J.P. Morgan Software Engineering Job Simulation
+- Mastercard Cybersecurity Job Simulation
+- Web Application Penetration Testing
+
+---
+
+# 💻 Coding Profiles
+
+<p align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=15&no-frame=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🎯 Current Focus
+
+```yaml
+Learning:
+  - Software Engineering
+  - AI Engineering
+  - Cloud Computing
+  - DevOps
+  - Kubernetes
+
+Building:
+  - Full Stack Applications
+  - AI Projects
+  - Cloud Solutions
+
+Exploring:
+  - System Design
+  - Open Source
+  - Microservices
+
+Open To:
+  - Software Engineering Internships
+  - Open Source Collaboration
+  - Cloud & AI Projects
+```
+
+---
+
+# 📫 Connect With Me
+
+📧 Email: **ayushkumar.ak018@gmail.com**
+
+💼 LinkedIn
+
+https://linkedin.com/in/ayush-kumar-224241210
+
+🐙 GitHub
+
+https://github.com/YOUR_USERNAME
+
+---
+
+<div align="center">
+
+### *"Building scalable software, exploring AI, and continuously learning to solve real-world problems."*
+
+</div>
