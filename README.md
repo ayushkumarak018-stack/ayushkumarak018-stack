@@ -204,11 +204,16 @@ Built AI-powered applications using Gemini API and Vertex AI with real-world clo
 
 ---
 
-# 🏆 GitHub Trophies
+# GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushkumarak018-stack&theme=algolia&no-frame=true&margin-w=10&margin-h=10" />
+
+<img width="100%"
+     src="https://github-profile-trophy.vercel.app/?username=ayushkumarak018-stack&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15"
+     alt="GitHub Trophies"/>
+
 </p>
+
 
 ---
 
@@ -220,12 +225,23 @@ Built AI-powered applications using Gemini API and Vertex AI with real-world clo
 
 ---
 
-# 🐍 Contribution Snake
+# # Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/ayushkumarak018-stack/output/github-contribution-grid-snake-dark.svg"/>
-
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/ayushkumarak018-stack/ayushkumarak018-stack/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/ayushkumarak018-stack/ayushkumarak018-stack/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/ayushkumarak018-stack/ayushkumarak018-stack/output/github-snake.svg"
+    />
+  </picture>
 </p>
 
 ---
