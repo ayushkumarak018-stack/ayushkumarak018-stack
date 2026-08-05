@@ -195,15 +195,15 @@ Built AI-powered applications using Gemini API and Vertex AI with real-world clo
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayushkumarak018-stack&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkumarak018-stack&layout=compact&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=ayushkumarak018-stack&theme=tokyonight"/>
 
 </p>
 
@@ -213,7 +213,7 @@ Built AI-powered applications using Gemini API and Vertex AI with real-world clo
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ayushkumarak018-stack&theme=algolia&margin-w=15&no-frame=true"/>
 
 </p>
 
@@ -223,7 +223,7 @@ Built AI-powered applications using Gemini API and Vertex AI with real-world clo
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushkumarak018-stack&theme=tokyo-night"/>
 
 </p>
 
@@ -233,7 +233,7 @@ Built AI-powered applications using Gemini API and Vertex AI with real-world clo
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/ayushkumarak018-stack/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -274,10 +274,6 @@ Open To:
 💼 LinkedIn
 
 https://linkedin.com/in/ayush-kumar-224241210
-
-🐙 GitHub
-
-https://github.com/YOUR_USERNAME
 
 ---
 
